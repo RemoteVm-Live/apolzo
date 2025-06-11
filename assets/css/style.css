@@ -33,10 +33,11 @@
 /*===========================
     1. COMMON css 
 ===========================*/
-@font-face {
-  font-family: 'Azarmehr';
-  src: url('../fonts/AzarMehr-VF-FD.woff2') format('woff2-variations');
-}      
+/* خط @font-face برای Azarmehr حذف شد */
+/* @font-face {
+    font-family: 'Azarmehr';
+    src: url('../fonts/AzarMehr-VF-FD.woff2') format('woff2-variations');
+} */    
 @import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800&display=swap"); /* تغییر از Vazirmatn به Vazirmatn */
 body {
   text-align: right;

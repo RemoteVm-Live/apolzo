@@ -85,22 +85,46 @@ h6 {
   margin: 0px; }
 
 h1 {
-  font-size: 48px; }
+  font-size: 48px;
+  line-height: 1.2; /* 1.2 برابر اندازه فونت */
+  margin-bottom: 20px; /* فاصله از پایین */
+}
 
 h2 {
-  font-size: 36px; }
+  font-size: 36px;
+  line-height: 1.25; /* 1.25 برابر اندازه فونت */
+  margin-bottom: 18px;
+}
 
 h3 {
-  font-size: 28px; }
+  font-size: 28px;
+  line-height: 1.3; /* 1.3 برابر اندازه فونت */
+  margin-bottom: 16px;
+}
 
 h4 {
-  font-size: 22px; }
+  font-size: 22px;
+  line-height: 1.35; /* 1.35 برابر اندازه فونت */
+  margin-bottom: 14px;
+}
 
 h5 {
-  font-size: 18px; }
+  font-size: 18px;
+  line-height: 1.4; /* 1.4 برابر اندازه فونت */
+  margin-bottom: 12px;
+}
 
 h6 {
-  font-size: 16px; }
+  font-size: 16px;
+  line-height: 1.45; /* 1.45 برابر اندازه فونت */
+  margin-bottom: 10px;
+}
+
+/* برای پاراگراف‌ها (اگر تعریف نشده) جهت خوانایی بهتر */
+p {
+  line-height: 1.7; /* برای متن اصلی، مقدار بزرگتر برای خوانایی بهتر */
+  margin-bottom: 15px; /* فاصله بین پاراگراف‌ها */
+}
 
 ul, ol {
   margin: 0px;

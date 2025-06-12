@@ -121,7 +121,7 @@ h6 {
 }
 
 /* برای پاراگراف‌ها (اگر تعریف نشده) جهت خوانایی بهتر */
-p {
+p {	
   line-height: 1.7; /* برای متن اصلی، مقدار بزرگتر برای خوانایی بهتر */
   margin-bottom: 15px; /* فاصله بین پاراگراف‌ها */
 }
@@ -1986,6 +1986,20 @@ p {
   letter-spacing: 0;
   text-transform: uppercase;
   padding-top: 27px; }
+
+.pricing-one__single h5 {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 600;
+  color: #ff8313;
+  position: relative;
+  margin-bottom: 10px;
+  line-height: 1.6em;
+  -webkit-transition: all 500ms ease;
+  transition: all 500ms ease;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  padding-top: 37px; }
 
 .pricing-one__single a {
   margin-top: 47px; }

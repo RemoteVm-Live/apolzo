@@ -1550,10 +1550,10 @@ p {
     animation: bubbleMover linear infinite 12s; }
     @media only screen and (min-width: 1200px) and (max-width: 1600px) {
       .business-area .business-shape {
-        right: 30px; } }
+        right: 25px; } }
     @media (max-width: 767px) {
       .business-area .business-shape {
-        right: 30px; } }
+        right: 25px; } }
   @media (max-width: 767px) {
     .business-area .business-content .row {
       margin-left: 0; } }

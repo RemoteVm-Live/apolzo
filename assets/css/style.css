@@ -1967,7 +1967,7 @@ p {
   margin: 0;
   color: #252c41;
   font-size: 60px;
-  font-weight: 400;
+  font-weight: 800;
   position: relative;
   line-height: 1em;
   -webkit-transition: all 500ms;
@@ -1976,7 +1976,7 @@ p {
 .pricing-one__single p {
   margin: 0;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 600;
   color: #ff8313;
   position: relative;
   margin-bottom: 5px;
@@ -1990,7 +1990,7 @@ p {
 .pricing-one__single h5 {
   margin: 0;
   font-size: 32px;
-  font-weight: 600;
+  font-weight: 700;
   color: #ff8313;
   position: relative;
   margin-bottom: 10px;

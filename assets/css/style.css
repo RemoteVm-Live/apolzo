@@ -1475,8 +1475,7 @@ p {
         .about-area .about-thumb .about-thumb-1 {
           left: auto;
           right: 260px; } }
-      .about-area .about-thumb .about-thumb-1 img {
-        box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, 0.1); }
+
     .about-area .about-thumb .about-thumb-2 {
       position: absolute;
       right: -50px;
